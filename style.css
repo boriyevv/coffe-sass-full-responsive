@@ -73,6 +73,9 @@
   width: 440px;
 }
 .home-hero__content__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 217px;
   height: 56px;
   color: white;

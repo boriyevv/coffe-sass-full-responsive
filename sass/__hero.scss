@@ -36,6 +36,9 @@ $Fraunces:'Fraunces', serif;
         }
 
         &__btn{
+            display: flex;
+            justify-content: center;
+            align-items: center;
             width: 217px;
             height: 56px;
             color: white;
